@@ -1,0 +1,6 @@
+.about-text,.about-image{
+    opacity: 0;
+}
+.about-text.animate__animated, .about-image.animate__animated{
+    opacity: 1;
+}
